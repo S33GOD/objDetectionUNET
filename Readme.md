@@ -40,6 +40,6 @@ To train the model you are able to use ``model.fit()`` function and input traini
 
 ##Results
 Even though I used small dataset with low variety of images network given me pretty decent results. You can improve this network`s efficiency by expanding image datasets or training it for more epochs
-![](results/result.png)
+![](Screenshot 2021-12-12 215605.png)
 
 
